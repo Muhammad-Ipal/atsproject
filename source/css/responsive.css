@@ -1,0 +1,27 @@
+@media only screen and (max-width: 600px) {
+
+.wrapper .menu-btn {
+  top: 20px;
+}
+
+.wadah {
+  display: block;
+  height: auto;
+}
+
+#sidebar {
+  z-index: 20;
+}
+
+.content .box {
+  background: transparent;
+  box-shadow: none;
+}
+
+  footer {
+  padding: 0.65rem 2rem;
+  font-size: 14.25px;
+  text-align: center;
+  max-height: 50px !important;
+}
+}
